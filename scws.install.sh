@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 version='1.2.3'
-prefix='/Users/limx/Applications/limingxinleo/docker-scws/scws'
+prefix='/usr/local/scws'
 
 # 下载并解压
 wget http://www.xunsearch.com/scws/down/scws-${version}.tar.bz2
