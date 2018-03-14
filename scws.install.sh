@@ -20,6 +20,12 @@ ln -sf ${prefix}/bin/scws /usr/local/bin/scws
 ls -al ${prefix}/lib/libscws.la
 scws -h
 
+# PHP扩展安装
+# ${prefix}/phpext
+# phpize
+# ./configure --with-scws=/usr/local/scws
+# make
+
 
 
 
